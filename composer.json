@@ -1,0 +1,14 @@
+{
+  "name": "tostrander/328/hello2",
+  "description": "My first MVC F3 Project",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Tina Ostrander",
+      "email": "tostrander@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
